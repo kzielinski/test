@@ -1,0 +1,10 @@
+1
+grep ".\{1,\}" plik.txt
+2
+grep ^[0-9] pl*
+3
+grep -l "^.\{8\}r" *
+4
+grep bash$ /etc/passwd
+5
+grep [IVXLCDM] plik.txt
